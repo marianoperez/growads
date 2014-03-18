@@ -19,6 +19,12 @@ CODE {
 .highlight {
     color: #090;
 }
+.social_share{
+    width:auto;
+    height: 100%;
+    float:left;
+    margin-left:10px;
+}
 
 .example {
     color: #08C;
