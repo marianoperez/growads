@@ -27,7 +27,8 @@
         <div class="social_share"><div class="fb-like" data-href="https://www.facebook.com/growads" data-width="60" data-layout="box_count" data-action="like" data-show-faces="false" data-share="false"></div></div>
         
         <div class="social_share"><div class="g-plusone" data-annotation="bubble" data-size="tall" data-href="https://plus.google.com/u/0/100000991483497023007/posts"></div></div>
-        <div class="social_share"><div class="g-plusone" data-annotation="bubble" data-size="tall" data-href="https://plus.google.com/u/0/100000991483497023007/posts"></div></div>
+        <div class="social_share" style="margin-top:15px"><a href="https://twitter.com/share" class="twitter-share-button" data-lang="es" data-related="growadsar">Twittear</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div>
     </div>
     <div id="footer-text">
         GrowAds - Desarrollo y Posicionamiento Web | Todos los derechos reservados    

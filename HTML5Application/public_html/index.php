@@ -17,6 +17,8 @@ and open the template in the editor.
 
         <script type="text/javascript" src="js/jquery.js"></script> 
         <script type="text/javascript" src="js/cycle.js"></script> 
+          <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+        <script type="text/javascript" src="js/jquery.tinycarousel.js"></script>
 
         <script type="text/javascript">
             $(document).ready(function($) {
@@ -203,6 +205,57 @@ and open the template in the editor.
                     </div>
 
 
+                </div>
+
+                <div id="client_list">
+                    <div id="slider1" style="width:1025px">
+                        <a class="buttons prev" href="#"><</a>
+                        <div class="viewport">
+                            <ul class="overview">
+                                <li><img src="img/picture1.jpg" alt="image 1" /></li>
+                                <li><img src="img/picture2.jpg" alt="image 2" /></li>
+                                <li><img src="img/picture3.jpg" alt="image 3" /></li>
+                                <li><img src="img/picture4.jpg" alt="image 4" /></li>
+                                <li><img src="img/picture7.jpg" alt="image 7" /></li>
+                            </ul>
+                        </div>
+                        <a class="buttons next" href="#">></a>
+
+                        <script type="text/javascript">
+                            $("#slider1").tinycarousel({interval: true});
+
+                            var slider1 = $("#slider1").data("plugin_tinycarousel");
+
+                            // The move method you can use to make a
+                            // anchor to a certain slide.
+                            //
+                            $('#gotoslide4').click(function()
+                            {
+                                slider1.move(4);
+
+                                return false;
+                            });
+
+                            // The start method starts the interval.
+                            //
+                            $('#startslider').click(function()
+                            {
+                                slider1.start();
+
+                                return false;
+                            });
+
+                            // The stop method stops the interval.
+                            //
+                            $('#stopslider').click(function()
+                            {
+                                slider1.stop();
+
+                                return false;
+                            });
+                        </script>
+
+                    </div>
                 </div>
                 <!-- Cierro el Contenedor Principal-->
 

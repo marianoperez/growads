@@ -222,7 +222,7 @@ h1 + p, h2 + p, h3 + p, h4 + p, h5 + p, h6 + p{	margin-top:-0.05em;}
 
 h1, h2, h3, h4, h5, h6{ color: #9CA716; margin-bottom:0.5em; }
 
-h1{ font-size:24px;}
+h1{ font-size:24px; font-family: 'Segoe UI','WOL_Reg';}
 
 h2{	font-size:20px;}
 
@@ -318,7 +318,13 @@ em{font-style:italic;}
     display: block;
     height: 32px;
 }
-
+#client_list{
+    float:left;
+    height:180px;
+    width:100%;
+    background-color: #08C;
+    margin-top:20px;
+}
 #services-show{
     float:left;
     width:990px;
@@ -335,6 +341,7 @@ em{font-style:italic;}
 #how-it-works h2{
     font-size:24px;
     color: #0e9bd9;
+    font-family:'Segoe UI','WOL_Reg';
     margin-top: 4px;
 }
 #works-left{
@@ -366,7 +373,7 @@ em{font-style:italic;}
 }
 .service-info h2{
     font-size:18px;
-    
+    font-family: 'Segoe UI','WOL_Reg';
     color: #0e9bd9;
 }
 #plus-desc{
@@ -448,6 +455,7 @@ em{font-style:italic;}
 #main-footer h3{
     font-size:16px;
     line-height:20px;
+    font-family: 'Segoe UI','WOL_Reg';
     height:20px;
     color: #4b4949;
     margin-top:5px;
@@ -501,4 +509,58 @@ hr {
 
     line-height:24px;
     font-size:13px;
+}
+
+/* slider1 */
+#slider1 {
+    margin: 0 0 20px;
+    overflow: hidden;
+}
+#slider1 .viewport {
+    float: left;
+    width: 368px;
+    height: 125px;
+    overflow: hidden;
+    position: relative;
+}
+#slider1 .buttons {
+    background: #C01313;
+    border-radius: 35px;
+    display: block;
+    margin: 30px 10px 0 0;
+    float: left;
+    width: 35px;
+    height: 35px;
+    position: relative;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    line-height: 35px;
+    text-decoration: none;
+    font-size: 22px;
+}
+#slider1 .next {
+    margin: 30px 0 0 10px;
+}
+#slider1 .buttons:hover{
+    color: #C01313;
+    background: #fff;
+}
+#slider1 .disable {
+    visibility: hidden;
+}
+#slider1 .overview {
+    list-style: none;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+#slider1 .overview li{
+    float: left;
+    margin: 0 20px 0 0;
+    overflow: hidden;
+    padding: 1px;
+    height: 121px;
+    border: 1px solid #dcdcdc;
+    width: 104px;
 }
