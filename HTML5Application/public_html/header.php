@@ -1,5 +1,5 @@
 <div id="logo-growads">
-    <img src="img/logo-growads.jpg" width="177"  alt="Posicionamiento Web" style="padding-top:27px"/>
+    <img src="img/logo_nuevo.png" width="200"   alt="Posicionamiento Web" style="padding-top:14px"/>
 </div>
 
 <div id="menu-options">

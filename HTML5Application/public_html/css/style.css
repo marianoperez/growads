@@ -150,7 +150,7 @@ CODE {
 #botones_menu{
     width:auto;
     margin-left:150px;
-    
+
 }
 
 #menu-options{
@@ -320,10 +320,14 @@ em{font-style:italic;}
 }
 #client_list{
     float:left;
-    height:180px;
+    height:90px;
     width:100%;
-    background-color: #08C;
-    margin-top:20px;
+    padding:20px;
+    margin-bottom:20px;
+    background-image: url('../img/clientes.png');
+    background-repeat: no-repeat;
+    background-position: center;
+
 }
 #services-show{
     float:left;
@@ -340,6 +344,12 @@ em{font-style:italic;}
 }
 #how-it-works h2{
     font-size:24px;
+    color: #0e9bd9;
+    font-family:'Segoe UI','WOL_Reg';
+    margin-top: 4px;
+}
+#client_title h2{
+        font-size:22px;
     color: #0e9bd9;
     font-family:'Segoe UI','WOL_Reg';
     margin-top: 4px;
@@ -362,14 +372,14 @@ em{font-style:italic;}
     float:left;
     width: 345px;
     margin-left: 25px;
-    height: 250px;
+    height: 260px;
     font-size:14px;
 
 }
 .more-info{
     text-align: right;
-    margin-top: 5px;
-    height: 20px;
+    margin-top: 2px;
+    float:right;
 }
 .service-info h2{
     font-size:18px;
@@ -564,3 +574,42 @@ hr {
     border: 1px solid #dcdcdc;
     width: 104px;
 }
+
+
+
+.moreInfo {
+   border-top: 1px solid #ff7c0a;
+   background: #ff8000;
+   background: -webkit-gradient(linear, left top, left bottom, from(#de6f00), to(#ff8000));
+   background: -webkit-linear-gradient(top, #de6f00, #ff8000);
+   background: -moz-linear-gradient(top, #de6f00, #ff8000);
+   background: -ms-linear-gradient(top, #de6f00, #ff8000);
+   background: -o-linear-gradient(top, #de6f00, #ff8000);
+   cursor:pointer;
+   width:auto;
+   padding-left:8px;
+   padding-right:8px;
+   -webkit-border-radius: 6px;
+   -moz-border-radius: 6px;
+   border-radius: 6px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: #ffffff;
+   height: 30px;
+   line-height:30px;
+   font-size: 13px;
+   font-family: Segoe UI;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+.moreInfo:hover {
+   border-top-color: #fc8b00;
+   background: #fc8b00;
+   color: #ffffff;
+   }
+.moreInfo:active {
+   border-top-color: #e37900;
+   background: #e37900;
+   }

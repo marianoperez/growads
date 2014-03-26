@@ -17,8 +17,7 @@ and open the template in the editor.
 
         <script type="text/javascript" src="js/jquery.js"></script> 
         <script type="text/javascript" src="js/cycle.js"></script> 
-          <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
-        <script type="text/javascript" src="js/jquery.tinycarousel.js"></script>
+
 
         <script type="text/javascript">
             $(document).ready(function($) {
@@ -99,8 +98,8 @@ and open the template in the editor.
                             Colocamos tu anuncio de una manera optimizada en la primer p&aacute;gina de Google.<br/>
                             Ajustamos el presupuesto que desea invertir para que obtenga la mayor cantidad de contactos y aumente sus ventas.
                         </div>
-                        <div class="more-info">
-                            <a href="#">Quiero saber M&aacute;s -></a>
+                        <div class="more-info moreInfo">
+                            Mas Info
                         </div>
                     </div>
                     <div class="service-info">
@@ -112,8 +111,8 @@ and open the template in the editor.
                             Optimizamos tu sitio web para poder posicionarlo naturalmente en Google.<br/>
                             Trabajamos con distintas herramientas de analisis que nos permiten colocar su sitio primero en google de manera efectiva.
                         </div>
-                        <div class="more-info">
-                            <a href="#">Quiero saber M&aacute;s -></a>
+                        <div class="more-info moreInfo">
+                            Mas Info
                         </div>
                     </div>
                     <div class="service-info" style="width: 240px">
@@ -125,8 +124,8 @@ and open the template in the editor.
                             Si todav&iacute;a tu empresa no cuenta con una web, o desea renovarla, podemos ayudarte.<br/>
                             Nuestro equipo de dise&ntilde;o y desarrollo web para crear tu imagen online.
                         </div>
-                        <div class="more-info">
-                            <a href="#">Quiero saber M&aacute;s -></a>
+                        <div class="more-info moreInfo">
+                            Mas Info
                         </div>
                     </div>
                     <hr>
@@ -182,19 +181,19 @@ and open the template in the editor.
 
                             <div id="result"></div>
                             <label for="name"><span>Nombre</span>
-                                <input type="text" name="name" id="name" placeholder="Ingrese su Nombre" />
+                                <input type="text" name="name" id="name" placeholder="Ingrese su Nombre" style="font-size:12px; width:255px"/>
                             </label>
 
                             <label for="email"><span>Email</span>
-                                <input type="text" name="email" id="email" placeholder="Ingrese su Email" />
+                                <input type="text" name="email" id="email" placeholder="Ingrese su Email" style="font-size:12px; width:255px"/>
                             </label>
 
                             <label for="phone"><span>Tel&eacute;fono</span>
-                                <input type="text" name="phone" id="phone" placeholder="Ingrese su Telefono" />
+                                <input type="text" name="phone" id="phone" placeholder="Ingrese su Telefono" style="font-size:12px; width:255px"/>
                             </label>
 
                             <label for="message"><span>Mensaje</span>
-                                <textarea name="message" id="message" placeholder="Mensaje"></textarea>
+                                <textarea name="message" id="message" placeholder="Mensaje" style="font-size:12px; width:255px"></textarea>
                             </label>
 
                             <label><span>&nbsp;</span>
@@ -206,56 +205,13 @@ and open the template in the editor.
 
 
                 </div>
-
+                <!-- Lista de clientes-->
+                <hr>
+                <div id="client_title">
+                    <h2>Confian en Nosotros</h2>
+                </div>
                 <div id="client_list">
-                    <div id="slider1" style="width:1025px">
-                        <a class="buttons prev" href="#"><</a>
-                        <div class="viewport">
-                            <ul class="overview">
-                                <li><img src="img/picture1.jpg" alt="image 1" /></li>
-                                <li><img src="img/picture2.jpg" alt="image 2" /></li>
-                                <li><img src="img/picture3.jpg" alt="image 3" /></li>
-                                <li><img src="img/picture4.jpg" alt="image 4" /></li>
-                                <li><img src="img/picture7.jpg" alt="image 7" /></li>
-                            </ul>
-                        </div>
-                        <a class="buttons next" href="#">></a>
-
-                        <script type="text/javascript">
-                            $("#slider1").tinycarousel({interval: true});
-
-                            var slider1 = $("#slider1").data("plugin_tinycarousel");
-
-                            // The move method you can use to make a
-                            // anchor to a certain slide.
-                            //
-                            $('#gotoslide4').click(function()
-                            {
-                                slider1.move(4);
-
-                                return false;
-                            });
-
-                            // The start method starts the interval.
-                            //
-                            $('#startslider').click(function()
-                            {
-                                slider1.start();
-
-                                return false;
-                            });
-
-                            // The stop method stops the interval.
-                            //
-                            $('#stopslider').click(function()
-                            {
-                                slider1.stop();
-
-                                return false;
-                            });
-                        </script>
-
-                    </div>
+                       
                 </div>
                 <!-- Cierro el Contenedor Principal-->
 
