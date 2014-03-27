@@ -6,15 +6,15 @@ and open the template in the editor.
 <html>
     <head>
 
-        <title>Posicionamiento Web en Google, posicionamiento web, dise&ntilde;o web, GrowAds</title>
+        <title>Posicionamiento Web Profesional, Posicionamiento en Google, Dise&ntilde;o Web - GrowAds</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="keywords" content="posicionamiento web en google, posicionamiento web, aparecer primero en google, diseño web, diseño de sitios web, colocar anuncio en google">
-        <meta name="description" content="Posicionamiento web en Google, posiciona tu sitio web, anuncia tu web en google, tenemos la soluci&oacute;n acorde a tus necesidades." >
+        <meta name="keywords" content="posicionamiento web en google, posicionamiento web, aparecer primero en google, dise&ntilde;o web, dise&ntilde;o de sitios web, colocar anuncio en google">
+        <meta name="description" content="GrowAds es una empresa de posicionamiento web. Con mas de 10 a&ntilde;os de Experiencia, contactenos para mejorar sus resultados." >
         <meta name="author" content="GrowAds">
         <link rel="stylesheet" href="css/style.css"  charset=UTF-8>
         <link href="css/yahoo.css" rel="stylesheet" type="text/css" />
         <link href="css/form-style.css" rel="stylesheet" type="text/css" />
-
+        <link rel='icon' type='image/x-icon' href='favicon.ico' />
         <script type="text/javascript" src="js/jquery.js"></script> 
         <script type="text/javascript" src="js/cycle.js"></script> 
 
@@ -88,6 +88,11 @@ and open the template in the editor.
                         </div> 
                     </div>
                 </div>
+                
+                <div id="growadsWhoWeAre">
+                    <span style="color: #009edc">GrowAds </span>es una empresa Argentina de desarrollo y posicionamiento web. Nuestra misi&oacute;n es posicionar su sitio en los primeros lugares de Google, con el fin de atraer a visitantes interesados a su sitio web. Los invitamos a conocernos, y a empezar a mejorar su posicionamiento en internet.
+                </div>
+                <hr>
                 <div id="services-show">
                     <div class="service-info" style="margin-left:0px">
                         <div class="imagen-portada" style="">
@@ -109,7 +114,7 @@ and open the template in the editor.
                         <h2>Posicionamiento Web Natural en Google</h2>
                         <div class="service-data">
                             Optimizamos tu sitio web para poder posicionarlo naturalmente en Google.<br/>
-                            Trabajamos con distintas herramientas de analisis que nos permiten colocar su sitio primero en google de manera efectiva.
+                            Trabajamos con distintas herramientas de analisis que nos permiten posicionar su sitio primero en google de manera efectiva.
                         </div>
                         <div class="more-info moreInfo">
                             Mas Info
@@ -181,19 +186,19 @@ and open the template in the editor.
 
                             <div id="result"></div>
                             <label for="name"><span>Nombre</span>
-                                <input type="text" name="name" id="name" placeholder="Ingrese su Nombre" style="font-size:12px; width:255px"/>
+                                <input type="text" name="name" id="userName" placeholder="Ingrese su Nombre" style="font-size:12px; width:255px"/>
                             </label>
 
                             <label for="email"><span>Email</span>
-                                <input type="text" name="email" id="email" placeholder="Ingrese su Email" style="font-size:12px; width:255px"/>
+                                <input type="text" name="email" id="userEmail" placeholder="Ingrese su Email" style="font-size:12px; width:255px"/>
                             </label>
 
                             <label for="phone"><span>Tel&eacute;fono</span>
-                                <input type="text" name="phone" id="phone" placeholder="Ingrese su Telefono" style="font-size:12px; width:255px"/>
+                                <input type="text" name="phone" id="userPhone" placeholder="Ingrese su Telefono" style="font-size:12px; width:255px"/>
                             </label>
 
                             <label for="message"><span>Mensaje</span>
-                                <textarea name="message" id="message" placeholder="Mensaje" style="font-size:12px; width:255px"></textarea>
+                                <textarea name="message" id="userMessage" placeholder="Mensaje" style="font-size:12px; width:255px"></textarea>
                             </label>
 
                             <label><span>&nbsp;</span>

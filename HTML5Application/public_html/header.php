@@ -1,9 +1,10 @@
 <div id="logo-growads">
-    <img src="img/logo_nuevo.png" width="200"   alt="Posicionamiento Web" style="padding-top:14px"/>
+    <img src="img/logo_nuevo.png" width="200"   alt="Posicionamiento Web" style="padding-top:14px; padding-left:15px"/>
 </div>
 
-<div id="menu-options">
-    <div id="botones_menu">
+<div id="menu-options" >
+    <h1>Dise&ntilde;o y Posicionamiento Web Profesional</h1>
+    <div id="botones_menu"style="display:none">
 
         <div class="btn-group">
             <button type="button" class="btn btn-default">Nosotros</button>
@@ -16,7 +17,7 @@
                     <span class="caret"></span>
                 </button>
                 <ul class="dropdown-menu">
-                    <li><a href="#">Posicionamiento Web SEM Google Adwords</a></li>
+                    <li><a href="#">Posicionamiento Web Google Adwords</a></li>
                     <li><a href="#">Posicionamiento Web SEO Natural en Google </a></li>
 
                 </ul>

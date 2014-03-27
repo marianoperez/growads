@@ -1,6 +1,12 @@
+@font-face {
+    font-family: "SegoeUI ";
+    src: url(../template/fonts/archivofont.ttf) format("truetype");
+}
+
 body{
     font-family: Segoe UI;
 }
+
 PRE {
     background: #F8F8F8;
     color: #666;
@@ -161,6 +167,15 @@ CODE {
     font-size:14px;
     font-family: Segoe UI;
     color: #64686a;
+}
+
+#menu-options h1{
+    font-size:20px;
+    font-family: Segoe UI;
+    float:left;
+    margin-left: 380px;
+    color: #08C;
+    margin-top:40px;
 }
 
 #middle-content{
@@ -329,6 +344,10 @@ em{font-style:italic;}
     background-position: center;
 
 }
+#growadsWhoWeAre{
+    font-family: Segoe UI;
+    font-size:15px;
+}
 #services-show{
     float:left;
     width:990px;
@@ -379,6 +398,7 @@ em{font-style:italic;}
 .more-info{
     text-align: right;
     margin-top: 2px;
+    display: none;
     float:right;
 }
 .service-info h2{
