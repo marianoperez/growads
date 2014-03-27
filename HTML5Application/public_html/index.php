@@ -32,6 +32,22 @@ and open the template in the editor.
                 });
             });
         </script> 
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-27437733-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function() {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+
+        </script>
         <meta charset="utf-8" />
         <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
         <script type="text/javascript" src="js/functions.js"></script> 
@@ -88,7 +104,7 @@ and open the template in the editor.
                         </div> 
                     </div>
                 </div>
-                
+
                 <div id="growadsWhoWeAre">
                     <span style="color: #009edc">GrowAds </span>es una empresa Argentina de desarrollo y posicionamiento web. Nuestra misi&oacute;n es posicionar su sitio en los primeros lugares de Google, con el fin de atraer a visitantes interesados a su sitio web. Los invitamos a conocernos, y a empezar a mejorar su posicionamiento en internet.
                 </div>
@@ -216,7 +232,7 @@ and open the template in the editor.
                     <h2>Confian en Nosotros</h2>
                 </div>
                 <div id="client_list">
-                       
+
                 </div>
                 <!-- Cierro el Contenedor Principal-->
 
