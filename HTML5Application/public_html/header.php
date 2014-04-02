@@ -3,7 +3,7 @@
 </div>
 
 <div id="menu-options" >
-    <h1>Dise&ntilde;o y Posicionamiento Web Profesional</h1>
+    <h1 style="text-shadow: 2px 2px 9px #D9D9D9;">Dise&ntilde;o y Posicionamiento Web Profesional</h1>
     <div id="botones_menu"style="display:none">
 
         <div class="btn-group">
