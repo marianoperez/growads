@@ -1,29 +1,25 @@
-<div id="logo-growads">
-    <img src="img/logo_nuevo.png" width="200"   alt="Posicionamiento Web" style="padding-top:14px; padding-left:15px"/>
+<div id="logoGrowads">
+    <a href="index.php"><img src="img/logo_nuevo.png" width="200"   alt="GrowAds Posicionamiento Web" style="padding-top:14px; padding-left:15px"/></a>
 </div>
 
-<div id="menu-options" >
-    <h1 style="text-shadow: 2px 2px 9px #D9D9D9;">Dise&ntilde;o y Posicionamiento Web Profesional</h1>
-    <div id="botones_menu"style="display:none">
+<div id="menuOptions" >
 
-        <div class="btn-group">
-            <button type="button" class="btn btn-default">Nosotros</button>
-            <button type="button" class="btn btn-default">Dise&ntilde;o Web</button>
+    <div id="botones_menu">
 
+        <div class="menu" >
+            <ul id="nav">
+                <li><a href="">Nosotros</a>
+                <li><a href="">Dise&ntilde;o Web</a>
 
-            <div class="btn-group">
-                <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">
-                    Posicionamiento Web
-                    <span class="caret"></span>
-                </button>
-                <ul class="dropdown-menu">
-                    <li><a href="#">Posicionamiento Web Google Adwords</a></li>
-                    <li><a href="#">Posicionamiento Web SEO Natural en Google </a></li>
-
-                </ul>
-            </div>
-            <button type="button" class="btn btn-default">Portfolio</button>
-            <button type="button" class="btn btn-default">Contacto</button>
+                <li><a href="">Posicionamiento Web</a>
+                    <ul>
+                        <li><a href="posicionamiento-web-natural-seo.php">Posicionamiento Web Natural SEO</a></li>
+                        <li><a href="">Posicionamiento Web Adwords</a></li>                        
+                    </ul>
+                </li>
+                <li><a href="">Redes Sociales</a>
+                <li><a href="">Contactenos</a>
+            </ul>
         </div>
     </div>
 </div>
