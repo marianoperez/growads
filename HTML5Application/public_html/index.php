@@ -202,7 +202,7 @@
 
                         <h2>&iexcl;Contactenos!</h2>
                         <div id="contactForm">
-                            <?php include('contactForm.php'); ?>
+                            <?php include('contact.php'); ?>
                         </div>
                     </div>
 
