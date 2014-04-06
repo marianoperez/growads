@@ -1,8 +1,3 @@
-<!--
-To change this template, choose Tools | Templates
-and open the template in the editor.
--->
-<!DOCTYPE html>
 <html>
     <head>
 
@@ -81,11 +76,41 @@ and open the template in the editor.
 
                 <div class="titleGeneral light_to_dark">
                     <div id="titleContent">
-
                         <div id="seccionImageSEO"></div>
-                        <div id="seccionTitle"><h1>Posicionamiento Web SEO</h1></div>
+                        <div id="seccionTitle"><h1>Posicionamiento Web SEO</h1>
+                        </div>
                     </div>
                 </div>
+                <div class="generalContainerAll grey_background">
+                    <div id="posicionamientoSeo" >
+                        <div class="title-divider">
+                            <h2><span style="color: #64686a;">¿Que es?</span> > Posicionamiento Web SEO</h2>
+
+                        </div>
+                        <p>
+                            El Posicionamiento Web SEO se refiere a la capacidad que tiene un sitio web de posicionarse 
+                            entre los primeros resultados de b&uacute;squeda de un buscador, gracias a su relevancia a nivel de contenido
+                            y a la arquitectura de su programaci&oacute;n.<br/><br/>
+                            Para poder posicionar su sitio primero en los buscadores, debe cumplir distintos requisitos y respetar las condiciones de
+                            dise&ntilde;o que prioriza cada buscador para ordenar los resultados que le mostrar&aacute; al usuario final.
+                        </p>
+                        <hr>
+                    </div>
+                    <div id="posicionamientoSeo" >
+                        <div class="title-divider">
+                            <h2><span style="color: #64686a;">¿Donde Veo Mi Sitio?</span> > Posicionamiento Web SEO</h2>
+
+                        </div>
+                        <p>
+                            El Posicionamiento Web SEO se refiere a la capacidad que tiene un sitio web de posicionarse 
+                            entre los primeros resultados de b&uacute;squeda de un buscador, gracias a su relevancia a nivel de contenido
+                            y a la arquitectura de su programaci&oacute;n.<br/><br/>
+                            Para poder posicionar su sitio primero en los buscadores, debe cumplir distintos requisitos y respetar las condiciones de
+                            dise&ntilde;o que prioriza cada buscador para ordenar los resultados que le mostrar&aacute; al usuario final.
+                        </p>
+                    </div>
+                </div>
+
 
 
                 <!-- Cierro el Contenedor Principal-->

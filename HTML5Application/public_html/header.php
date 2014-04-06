@@ -13,7 +13,7 @@
 
                 <li><a href="">Posicionamiento Web</a>
                     <ul>
-                        <li><a href="posicionamiento-web-natural-seo.php">Posicionamiento Web Natural SEO</a></li>
+                        <li><a href="posicionamiento-web-seo.php">Posicionamiento Web SEO</a></li>
                         <li><a href="">Posicionamiento Web Adwords</a></li>                        
                     </ul>
                 </li>

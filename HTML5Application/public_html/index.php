@@ -1,15 +1,13 @@
 <html>
     <head>
 
-        <title>Posicionamiento Web Profesional, Posicionamiento en Google, Diseño Web - GrowAds</title>
+        <title>Posicionamiento Web, Posicionamiento Web en Google, Diseño Web - GrowAds</title>
         <meta name="description" content="GrowAds es una empresa de posicionamiento web. Con mas de 10 años de Experiencia, contactenos para mejorar sus resultados.">
         <meta name="keywords" content="posicionamiento web en google, posicionamiento web, aparecer primero en google, diseño web, diseño de sitios web, colocar anuncio en google">
         <meta name="robots" content="index, follow">
         <meta name="dcterms.rightsHolder" content="GrowAds Posicionamiento Web">
-        <meta name="author" content="growads">
         <meta name="dcterms.dateCopyrighted" content="2014">
         <meta name="rating" content="general">
-        <meta name="generator" content="FreeMetaTagGenerator.com">
         <meta name="author" content="GrowAds">
 
         <link href="css/style.css" rel="stylesheet" type="text/css"/>

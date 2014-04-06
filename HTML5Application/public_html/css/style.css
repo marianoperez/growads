@@ -30,7 +30,7 @@ body{
 #top-header{
     width: 990px;
     margin:auto;
-    height: 97px;height:100px;
+  height:100px;
 }
 
 #contenedor_contact{
@@ -359,16 +359,24 @@ em{font-style:italic;}
     height:296px;
     background-color:#ccc;
     margin-top:0px;
-         clear:both;
-         border-bottom: #ccc 1px solid;
+    clear:both;
+    border-bottom: #ccc 1px solid;
 }
 .titleGeneral{
-    
+
     margin-top:0px;
-         clear:both;
-         
+    clear:both;
+
     border-bottom: #b2e1e7 1px solid;
 }
+
+.generalContainerAll{
+    float:left;
+    margin-top:0px;
+   width:100%;
+    height:auto;
+}
+
 #footer {position: relative;
          margin-top: -140px; /* negative value of footer height */
          height:100px;
@@ -388,12 +396,12 @@ em{font-style:italic;}
 #mainFooter{
     width: 990px;
     margin: auto;
-    
+
     line-height: 40px;
     font-size: 14px;
     font-family: Segoe UI;
     color: gray;
-    
+
 }
 #footerLeft{
     float:left;
@@ -564,11 +572,11 @@ hr {
 #titleContent{
     height:100px;
     line-height:100px;
-    
+
     width:990px;
     margin:auto;
     margin-top:0px;
-    
+
 }
 
 #seccionTitle{
@@ -595,6 +603,24 @@ hr {
     height:100%;
     margin-left:10px;
     background-image:url('../img/posicionamiento-seo.png');
-        background-repeat: no-repeat;
+    background-repeat: no-repeat;
     background-position-y: 10px;
+}
+
+#posicionamientoSeo{
+        margin:auto;
+    width:990px;
+    font-family: Segoe UI;
+    height: auto;
+    margin-bottom:0px;
+}
+
+#posicionamientoSeo p{
+    text-align: center;
+    width: 760px;
+    margin:auto;
+}
+
+#posicionamientoSeo hr{
+    padding-bottom: 5px;
 }

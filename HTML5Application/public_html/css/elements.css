@@ -66,8 +66,21 @@ background-image: linear-gradient(to top, #FFFFFF 81%, #E8F5FC 100%);
 
 }
 
+.grey_background{
+    background-color: rgba(211,248,245,0.1)    /* 10% opaque red */  
+}
 
+.title-divider {
+text-align: center;
+max-height: 44px;
+overflow: hidden;
+margin: 0 0 20px;
+}
 
+.title-divider h2 {
+line-height: 25px;
+font-size:22px;
+}
 
 
 #nav {
