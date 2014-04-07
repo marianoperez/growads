@@ -6,23 +6,24 @@
   js.src = "//connect.facebook.net/es_LA/all.js#xfbml=1&appId=1719193581554689";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-<div id="main-footer">
-    <div id="footer-left">
+<div id="mainFooter">
+    <div id="footerLeft">
         <h3>Servicios</h3>
-        <li>Posicionamiento Web en Google</li>
-        <li>Posicionamiento SEO Natural</li>
-        <li>Dise&ntilde;o Web</li>
+        <div class="itemsForFooter"><a href="">Posicionamiento Web Google Adwords</a></div>
+        <div class="itemsForFooter"><a href="">Posicionamiento SEO Natural</a></div>
+        <div class="itemsForFooter"><a href="">Dise&ntilde;o Web</a></div>
+        <div class="itemsForFooter"><a href="">Redes Sociales</a></div>
     </div>
-    <div id="footer-mid">
+    <div id="footerMid">
         <h3>En donde Estamos?</h3>
         <div id="contenedor_contact">
             <div id="location_icon"></div>
-            <li>Matorras 274, Caballito, Buenos Aires</li>
-            <li>3998-7281</li>
-            <li>info@growads.com.ar</li>
+            <div class="itemsForFooterLocation">Matorras 274, Caballito, Buenos Aires</div>
+            <div class="itemsForFooterLocation">3998-7281</div>
+            <div class="itemsForFooterLocation">info@growads.com.ar</div>
         </div>
     </div>
-    <div id="footer-last">
+    <div id="footerLast">
         <h3>Redes Sociales</h3>
         <div class="social_share"><div class="fb-like" data-href="https://www.facebook.com/growads" data-width="60" data-layout="box_count" data-action="like" data-show-faces="false" data-share="false"></div></div>
         
@@ -31,7 +32,7 @@
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div>
     </div>
     <div id="footer-text">
-        GrowAds - Desarrollo y Posicionamiento Web | Todos los derechos reservados    
+        <a href="http://www.growads.com.ar">GrowAds - Desarrollo y Posicionamiento Web</a> | Todos los derechos reservados    
     </div>
 </div>
 <script type="text/javascript">

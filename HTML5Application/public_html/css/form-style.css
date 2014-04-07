@@ -1,6 +1,6 @@
 #contact_form{
-	width:300px;
-	padding:20px;
+	width:280px;
+	padding:10px;
 	border: 1px solid #DDD;
 	border-radius: 5px;
 	font-family: Segoe UI;
@@ -9,6 +9,9 @@
 	background:#FAFAFA;
 	margin-right: auto;
 	margin-left: auto;
+        padding-left:30px;
+        padding-top:20px;
+        padding-bottom:20px;
 }
 #contact_form legend{
 	font-size: 15px;
@@ -20,7 +23,7 @@
 }
 #contact_form label span{
 	float:left;
-	width:100px;
+	width:157px;
 	color:#666666;
 }
 #contact_form input{
@@ -29,7 +32,7 @@
 	border-radius: 3px;
 	padding-left: 4px;
 	color: #666;
-	width: 180px;
+	width: 300px;
 	font-family: Arial, Helvetica, sans-serif;
 }
 #contact_form textarea{
@@ -38,7 +41,7 @@
 	padding-left: 4px;
 	color: #666;
 	height:100px;
-	width: 180px;
+	width: 320px;
 	font-family: Arial, Helvetica, sans-serif;
 }
 .submit_btn {
@@ -69,4 +72,5 @@
 	border: 1px solid #FFCACA;
 	border-radius: 5px;
 	font-weight: normal;
+        width:237px;
 }
