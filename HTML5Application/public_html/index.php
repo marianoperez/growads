@@ -133,7 +133,7 @@
                             Trabajamos con distintas herramientas de analisis que nos permiten posicionar su sitio primero en google de manera efectiva.
                         </div>
                         <div class="more-info moreInfo">
-                            Mas Info
+                            <a href="posicionamiento-web-seo.php">Mas Info</a>
                         </div>
                     </div>
                     <div class="service-info" style="width: 240px">

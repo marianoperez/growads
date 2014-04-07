@@ -518,7 +518,9 @@ hr {
     border: 1px solid #dcdcdc;
     width: 104px;
 }
-
+.moreInfo a{
+    color:#ffffff;
+}
 
 
 .moreInfo {
