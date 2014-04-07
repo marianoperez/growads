@@ -50,7 +50,6 @@
         </script>
         <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
         <script type="text/javascript" src="js/functions.js"></script> 
-        <link href="css/bootstrap.css" rel="stylesheet">
         <script src="http://code.jquery.com/jquery-latest.min.js"></script>
         <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
         <script src="bootstrap-hover-dropdown.js"></script>
@@ -128,7 +127,7 @@
                         <div class="imagen-portada" style="">
                             <img src="img/posicionamiento-web-natural-portada.png" width="80" height="80" alt="Dise&ntilde;o Web" class="imagen-portada-img" style="margin-left: 100px"/>
                         </div>
-                        <h2>Posicionamiento Web Natural en Google</h2>
+                        <h2>Posicionamiento Web SEO en Buscadores</h2>
                         <div class="service-data">
                             Optimizamos tu sitio web para poder posicionarlo naturalmente en Google.<br/>
                             Trabajamos con distintas herramientas de analisis que nos permiten posicionar su sitio primero en google de manera efectiva.
@@ -143,8 +142,8 @@
                         </div>
                         <h2>Dise&ntilde;o Web Profesional</h2>
                         <div class="service-data">
-                            Si todav&iacute;a tu empresa no cuenta con una web, o desea renovarla, podemos ayudarte.<br/>
-                            Nuestro equipo de dise&ntilde;o y desarrollo web creara la imagen de su empresa online.
+                            Si todav&iacute;a no cuenta con una web, o desea renovarla, podemos ayudarte.<br/>
+                            Nuestro equipo de dise&ntilde;o y desarrolo web creara la imagen de su empresa online.
                         </div>
                         <div class="more-info moreInfo">
                             Mas Info

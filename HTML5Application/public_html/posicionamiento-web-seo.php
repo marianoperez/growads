@@ -98,16 +98,22 @@
                     </div>
                     <div id="posicionamientoSeo" >
                         <div class="title-divider">
-                            <h2><span style="color: #64686a;">¿Donde Veo Mi Sitio?</span> > Posicionamiento Web SEO</h2>
+                            <h2><span style="color: #64686a;">¿Donde se ubica mi Sitio?</span> > ¿Cuanto tiempo demora?</h2>
 
                         </div>
                         <p>
-                            El Posicionamiento Web SEO se refiere a la capacidad que tiene un sitio web de posicionarse 
-                            entre los primeros resultados de b&uacute;squeda de un buscador, gracias a su relevancia a nivel de contenido
-                            y a la arquitectura de su programaci&oacute;n.<br/><br/>
-                            Para poder posicionar su sitio primero en los buscadores, debe cumplir distintos requisitos y respetar las condiciones de
-                            dise&ntilde;o que prioriza cada buscador para ordenar los resultados que le mostrar&aacute; al usuario final.
+                            <img alt="Posicionamiento Web SEO Argentina" src="img/posicionamiento-seo-argentina.jpg" title="Posicionamiento SEO"/>
+                            Su sitio web se ubicara entre los resultados de busqueda que se muestran luego de
+                            los anuncios, por lo que cada clic que reciba su sitio, sera de un potencial cliente
+                            interesado en sus productos o servicios.
+                            <br>  
+                            <br>
+                            Los resultados se pueden apreciar luego del primer mes comenzado el trabajo, gracias a nuestras tecnicas de posicionamiento, su sitio lograra escalar posiciones rapidamente.
                         </p>
+
+                    </div>
+                    <div id="posicionamientoSeo">
+                      <br>
                     </div>
                 </div>
 

@@ -30,7 +30,7 @@ body{
 #top-header{
     width: 990px;
     margin:auto;
-  height:100px;
+    height:100px;
 }
 
 #contenedor_contact{
@@ -317,10 +317,12 @@ em{font-style:italic;}
     font-size:14px;
 
 }
+.service-info h2{
+    text-align:center;
+}
 .more-info{
     text-align: right;
     margin-top: 2px;
-    display: none;
     float:right;
 }
 
@@ -373,7 +375,7 @@ em{font-style:italic;}
 .generalContainerAll{
     float:left;
     margin-top:0px;
-   width:100%;
+    width:100%;
     height:auto;
 }
 
@@ -433,7 +435,7 @@ em{font-style:italic;}
     float:left; width:240px; padding-bottom:5px;
 }
 .imagen-portada-img{
-    margin-left: 70px;
+    margin-left: 80px;
 }
 
 
@@ -608,7 +610,7 @@ hr {
 }
 
 #posicionamientoSeo{
-        margin:auto;
+    margin:auto;
     width:990px;
     font-family: Segoe UI;
     height: auto;
@@ -619,8 +621,42 @@ hr {
     text-align: center;
     width: 760px;
     margin:auto;
+    clear:both;
 }
+#posicionamientoSeo p img{
+    float:left;
 
-#posicionamientoSeo hr{
-    padding-bottom: 5px;
+}
+#posicionamientoSeo  hr {
+    border: none;
+    border: 0;
+    background: url('../img/hr3.png') no-repeat center center transparent;
+    clear: both;
+    display: block;
+    height: 10px;
+    margin-top: 15px;
+    margin-bottom:5px;
+    width: 100%;
+}
+.global_icon {
+background: url(../img/monochrome-iconsB.png) no-repeat top left;
+font-size: 0;
+float: left;
+margin-right: 20px;
+}
+.message {
+float: left;
+margin-bottom: 10px;
+width: 220px;
+}
+.memberships h4 {
+margin-bottom: 7px;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.5em;
+color: #333;
+}
+.message p {
+margin-bottom: 1px;
+font: 400 13px/1.5em Helvetica,Arial,sans-serif;
 }

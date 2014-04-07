@@ -67,12 +67,13 @@ background-image: linear-gradient(to top, #FFFFFF 81%, #E8F5FC 100%);
 }
 
 .grey_background{
-    background-color: rgba(211,248,245,0.1)    /* 10% opaque red */  
+    background-color: #eeeeee;
+      /* 10% opaque red background-color: rgba(211,248,245,0.1)  */  
 }
 
 .title-divider {
 text-align: center;
-max-height: 44px;
+max-height: 65px;
 overflow: hidden;
 margin: 0 0 20px;
 }
