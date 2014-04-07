@@ -82,7 +82,7 @@
                     </div>
                 </div>
                 <div class="generalContainerAll grey_background">
-                    <div id="posicionamientoSeo" >
+                    <div class="posicionamientoSeo" >
                         <div class="title-divider">
                             <h2><span style="color: #64686a;">¿Que es?</span> > Posicionamiento Web SEO</h2>
 
@@ -96,7 +96,7 @@
                         </p>
                         <hr>
                     </div>
-                    <div id="posicionamientoSeo" >
+                    <div class="posicionamientoSeo" >
                         <div class="title-divider">
                             <h2><span style="color: #64686a;">¿Donde se ubica mi Sitio?</span> > ¿Cuanto tiempo demora?</h2>
 
@@ -110,11 +110,31 @@
                             <br>
                             Los resultados se pueden apreciar luego del primer mes comenzado el trabajo, gracias a nuestras tecnicas de posicionamiento, su sitio lograra escalar posiciones rapidamente.
                         </p>
-
+                        <hr>
                     </div>
-                    <div id="posicionamientoSeo">
-                      <br>
-                      <br>
+                    <div class="posicionamientoSeo">
+                      <div class="title-divider">
+                            <h2>Posicionamiento de Calidad</h2>
+                            
+                        </div>
+                        <div id="posicionamientoSeoItems">
+                            
+                            <div class="posicionamientoDesc">
+                                <div class="posCandado posicionamientoSeoItemIcon"></div>
+                                <div class="posicionamientoSeoItemTitle">Sin Limites</div>
+                                <div class="posicionamientoSeoItemDesc">Nuestro servicio no se limita por palabras claves. Ofrecemos el mejor posicionamiento <strong>ilimitado</strong></div>
+                            </div>
+                            <div class="posicionamientoDesc">
+                                <div class="posJerarquia posicionamientoSeoItemIcon"></div>
+                                <div class="posicionamientoSeoItemTitle" >Arriba de sus Competidores</div>
+                                <div class="posicionamientoSeoItemDesc">Garantizamos que su sitio aparecer&aacute; por encima de su competencia para garantizarle una <strong>mayor cantidad de contactos.</strong></div>
+                            </div>
+                            <div class="posicionamientoDesc">
+                                <div class="posMic posicionamientoSeoItemIcon"></div>
+                                <div class="posicionamientoSeoItemTitle" >En todos Lados</div>
+                                <div class="posicionamientoSeoItemDesc">Su sitio por encima de los competidores le proporcionar&aacute; una cantidad mayor de contactos diarios.</div>
+                            </div>
+                        </div>
                     </div>
                 </div>
 
