@@ -98,7 +98,7 @@
                     </div>
                     <div class="posicionamientoSeo" >
                         <div class="title-divider">
-                            <h2><span style="color: #64686a;">¿Donde se ubica mi Sitio?</span> > ¿Cuanto tiempo demora?</h2>
+                            <h2><span style="color: #64686a;">¿Donde se ubica mi Sitio?</span> > ¿Cuanto tiempo demora en aparecer?</h2>
 
                         </div>
                         <p>

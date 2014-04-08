@@ -156,7 +156,7 @@
                         <h2>&iquest;C&oacute;mo Funciona el Posicionamiento Web?</h2>
                         <div id="how-description">
                             <p>A traves del posicionamiento web, su sitio ganar&aacute; mas visitantes, claves para su negocio, ya que seran visitantes interesados en su empresa o negocio para ponerse en contacto con usted.</p>
-                            <p style="margin-top:8px;">Nuestro trabajo es lograr el mejor posicionamiento en google posible, para captar aquellos clientes potenciales que est&aacute;n en b&uacute;squeda de su servicio.</p>
+                            <p style="margin-top:8px;">Nuestro trabajo es lograr el mejor posicionamiento en los buscadores posible, para captar aquellos clientes potenciales que est&aacute;n en b&uacute;squeda de su servicio.</p>
                         </div>
                         <div id="plus-desc">
                             <div class="plus-item">
