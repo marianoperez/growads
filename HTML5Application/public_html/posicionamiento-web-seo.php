@@ -102,7 +102,7 @@
 
                         </div>
                         <p>
-                            <img alt="Posicionamiento Web SEO Argentina" src="img/posicionamiento-seo-argentina.jpg" title="Posicionamiento SEO"/>
+                            <img alt="Posicionamiento Web SEO Argentina" src="img/posicionamiento-seo-argentina.png" title="Posicionamiento SEO"/>
                             Su sitio web se ubicara entre los resultados de busqueda que se muestran luego de
                             los anuncios, por lo que cada clic que reciba su sitio, sera de un potencial cliente
                             interesado en sus productos o servicios.
@@ -113,12 +113,12 @@
                         <hr>
                     </div>
                     <div class="posicionamientoSeo">
-                      <div class="title-divider">
+                        <div class="title-divider">
                             <h2>Posicionamiento de Calidad</h2>
-                            
+
                         </div>
                         <div id="posicionamientoSeoItems">
-                            
+
                             <div class="posicionamientoDesc">
                                 <div class="posCandado posicionamientoSeoItemIcon"></div>
                                 <div class="posicionamientoSeoItemTitle">Sin Limites</div>
@@ -130,10 +130,54 @@
                                 <div class="posicionamientoSeoItemDesc">Garantizamos que su sitio aparecer&aacute; por encima de su competencia para garantizarle una <strong>mayor cantidad de contactos.</strong></div>
                             </div>
                             <div class="posicionamientoDesc">
-                                <div class="posMic posicionamientoSeoItemIcon"></div>
+                                <div class="posCel posicionamientoSeoItemIcon"></div>
                                 <div class="posicionamientoSeoItemTitle" >En todos Lados</div>
-                                <div class="posicionamientoSeoItemDesc">Su sitio por encima de los competidores le proporcionar&aacute; una cantidad mayor de contactos diarios.</div>
+                                <div class="posicionamientoSeoItemDesc">Su sitio debe ser visto por todas aquellas personas interesadas que lo contacten <strong>desde cualquier dispositivo</strong>.</div>
                             </div>
+                            <div class="posicionamientoDesc">
+                                <div class="posMic posicionamientoSeoItemIcon"></div>
+                                <div class="posicionamientoSeoItemTitle" >Corra la Voz</div>
+                                <div class="posicionamientoSeoItemDesc">Los contactos que estas buscando, estan en Internet. Y estan buscando a su empresa!</div>
+                            </div>
+                        </div>
+                        <hr>
+                    </div>
+                    
+                    <div class="posicionamientoSeo">
+                        <div class="title-divider">
+                             <h2>Caracteristicas del Servicio</h2>
+                        </div>
+                        <div id="posicionamientoSeoTable">
+                            <div class="compareTable" >
+                                <table >
+                                    <tr>
+                                        <td>
+                                            Ventajas del Posicionamiento SEO
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td >
+                                            Sin limite de Clics
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td >
+                                            Abono de Tarifa Plana
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td >
+                                            Disponible los 365 dias del a&ntilde;o las 24hs
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td >
+                                            Localizaci&oacute;n de su negocio en Google Maps 
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>
+
                         </div>
                     </div>
                 </div>

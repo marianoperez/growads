@@ -4,9 +4,7 @@
 
 <div id="menuOptions" >
 
-    <div id="botones_menu">
 
-        <div class="menu" >
             <ul id="nav">
                 <li><a href="">Nosotros</a>
                 <li><a href="">Dise&ntilde;o Web</a>
@@ -20,6 +18,4 @@
                 <li><a href="">Redes Sociales</a>
                 <li><a href="">Contactenos</a>
             </ul>
-        </div>
-    </div>
 </div>

@@ -61,14 +61,14 @@ body{
 
 
 #menuOptions{
-    width:702px;
+    width:auto;
     height:101px;
     line-height:101px;
     float:left;
     font-size:14px;
     font-family: Segoe UI;
     color: #64686a;
-    margin-left:110px;
+    margin-left:120px;
 }
 
 
@@ -713,8 +713,21 @@ border-radius: 5px;
     background-position-y: 0px;
 }
 
-.posMic{
+.posCel{
     background-position-x:-85px;
     
     background-position-y: 0px;
+}
+
+.posMic{
+    background-position-x:-59px;
+    
+    background-position-y: 0px;
+}
+
+#posicionamientoSeoTable{
+    width:520px;
+    height:400px;
+    margin:auto;
+    margin-bottom:90px;
 }
