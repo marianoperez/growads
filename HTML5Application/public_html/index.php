@@ -120,7 +120,7 @@
                             Ajustamos el presupuesto que desea invertir para que obtenga la mayor cantidad de contactos y aumente sus ventas.
                         </div>
                         <div class="more-info moreInfo">
-                            Mas Info
+                            <a href="posicionamiento-web-adwords.php">Mas Info</a>
                         </div>
                     </div>
                     <div class="service-info">

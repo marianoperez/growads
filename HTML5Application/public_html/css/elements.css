@@ -52,7 +52,17 @@ background-image: -webkit-linear-gradient(top, #FFFFFF 81%, #E8F5FC 100%);
 background-image: -ms-linear-gradient(top, #FFFFFF 81%, #E8F5FC 100%);
 background-image: linear-gradient(to top, #FFFFFF 81%, #E8F5FC 100%);
 }
+.light_to_orange{
+    background-color: #fffaf2; /* Old browsers */
+         background: -moz-linear-gradient(top, #fffaf2 30%, #ffffff 40% ); /* FF3.6+ */
+         background: -webkit-gradient(linear, left top, left bottom, color-stop(16%,#fffaf2), color-stop(19%,#ffffff)); /* Chrome,Safari4+ */
+         background: -webkit-linear-gradient(top, #fffaf2 20% ,#ffffff 40% ); /* Chrome10+,Safari5.1+ */
+         background: -o-linear-gradient(top, #fffaf2,#ffffff ); /* Opera 11.10+ */
+         background: -ms-linear-gradient(top, #fffaf2,#ffffff); /* IE10+ */
+         background: linear-gradient(to bottom, #fffaf2,#ffffff); /* W3C */
+         filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fffaf2', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
 
+}
 
 .light_to_dark{
     background-color: #e6f3f5; /* Old browsers */

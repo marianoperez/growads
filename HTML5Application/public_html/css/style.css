@@ -68,7 +68,7 @@ body{
     font-size:14px;
     font-family: Segoe UI;
     color: #64686a;
-    margin-left:120px;
+    margin-left:150px;
 }
 
 
@@ -617,7 +617,15 @@ hr {
     background-repeat: no-repeat;
     background-position-y: 10px;
 }
-
+#seccionImageAdwords{
+    float:left;
+    width:180px;
+    height:100%;
+    margin-left:10px;
+    background-image:url('../img/google-adwords.png');
+    background-repeat: no-repeat;
+    background-position-y: 10px;
+}
 .posicionamientoSeo{
     margin:auto;
     width:990px;
@@ -730,4 +738,7 @@ border-radius: 5px;
     height:400px;
     margin:auto;
     margin-bottom:90px;
+}
+#imagenDerecha{
+    float:right;
 }

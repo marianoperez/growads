@@ -18,8 +18,8 @@
         <h3>En donde Estamos?</h3>
         <div id="contenedor_contact">
             <div id="location_icon"></div>
-            <div class="itemsForFooterLocation">Matorras 274, Caballito, Buenos Aires</div>
-            <div class="itemsForFooterLocation">3998-7281</div>
+            <div class="itemsForFooterLocation">Matorras 274, CABA, Argentina</div>
+            <div class="itemsForFooterLocation">(011) 3998-7281</div>
             <div class="itemsForFooterLocation">info@growads.com.ar</div>
         </div>
     </div>
