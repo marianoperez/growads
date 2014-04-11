@@ -1,7 +1,7 @@
 <html>
     <head>
 
-        <title>Posicionamiento Web, Posicionamiento Web en Google, Diseño Web - GrowAds</title>
+        <title>Posicionamiento Web, Posicionamiento Web en Google - GrowAds</title>
         <meta name="description" content="GrowAds es una empresa de posicionamiento web. Con mas de 10 años de Experiencia, contactenos para mejorar sus resultados.">
         <meta name="keywords" content="posicionamiento web en google, posicionamiento web, aparecer primero en google, diseño web, diseño de sitios web, colocar anuncio en google">
         <meta name="robots" content="index, follow">

@@ -74,3 +74,100 @@
 	font-weight: normal;
         width:237px;
 }
+
+
+
+
+
+
+
+
+#contactoSeccion{
+        float:left;
+	width:400px;
+	padding:0px;
+	border: 1px solid #DDD;
+	border-radius: 5px;
+	font-family: Segoe UI;
+	font-size: 14px;
+	color: #666666;
+	background:#FAFAFA;
+	margin-right: auto;
+	margin-left: auto;
+        padding-left:30px;
+        padding-top:10px;
+        padding-bottom:20px;
+}
+#contactoSeccion legend{
+	font-size: 15px;
+	color: #C9C9C9;
+        float:left;
+}
+#contactoSeccion label{
+	margin-bottom:5px;
+        float:left;
+        width:auto;
+}
+#contactoSeccion label span{
+	float:left;
+	width:90px;
+	color:#666666;
+}
+#contactoSeccion input{
+	height: 25px;
+	border: 1px solid #DBDBDB;
+	border-radius: 3px;
+        float:left;
+	padding-left: 4px;
+	color: #666;
+	width: 120px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#contactoSeccion textarea{
+	border: 1px solid #DBDBDB;
+	border-radius: 3px;
+	padding-left: 4px;
+	color: #666;
+	height:100px;
+	width: 587px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.submit_btn {
+	border: 1px solid #D8D8D8;
+	padding: 5px 15px 5px 15px;
+	color: #8D8D8D;
+	text-shadow: 1px 1px 1px #FFF;
+	border-radius: 3px;
+	background: #F8F8F8;
+        float:left;
+}
+.submit_btn:hover 
+{
+	background: #ECECEC;
+}
+#contactoSeccion .success{
+	background: #CFFFF5;
+	padding: 10px;
+	margin-bottom: 10px;
+        width:100%;
+	border: 1px solid #B9ECCE;
+	border-radius: 5px;
+	font-weight: normal;
+        width:570px;
+}
+#contactoSeccion .error{
+    
+	background: #FFDFDF;
+	padding: 10px;
+	margin-bottom: 10px;
+	border: 1px solid #FFCACA;
+	border-radius: 5px;
+	font-weight: normal;
+        width:570px;
+}
+
+#line{float:left;width:628px;height:40px;margin-top:10px;}
+
+#lineLeft{float:left;width:314px;height:40px}
+#lineRight{float:left;width:314px;height:40px}
+#textLine{float:left;width:628px;height:120px;margin-top:10px;}

@@ -12,7 +12,7 @@ body{
     color: #090;
 }
 .social_share{
-    width:auto;
+    width: auto;
     height: 100%;
     float:left;
     margin-left:10px;
@@ -622,7 +622,7 @@ hr {
     width:180px;
     height:100%;
     margin-left:10px;
-    background-image:url('../img/google-adwords.png');
+    background-image:url('../img/contactenos-growads-posicionamiento.png');
     background-repeat: no-repeat;
     background-position-y: 10px;
 }
@@ -655,7 +655,47 @@ hr {
     margin-bottom:5px;
     width: 100%;
 }
+.contactoGrowads{
+    margin:auto;
+    width:990px;
+    font-family: Segoe UI;
+    height: auto;
+    margin-bottom:40px;
+}
 
+#contactoBarraLateralChica{
+    width:300px;
+    background-color: #d8e7f3;
+    height:400px;
+    float:left;
+}
+
+#contactoBarraGrande{
+    width: 660px;
+    margin-left: 10px;
+    height:auto;
+    float:left;
+    background-color: rgba(218,228,238,0.2);
+}
+
+.contactoInfoChico ul 
+{
+list-style-image:url('../img/bullet.png');
+color: #696269;
+font-size:14px;
+}
+
+.contactoInfoChico h3{
+    padding-left:20px;
+    padding-top:10px;
+    font-weight: normal;
+    height:30px;
+    line-height:30px;
+    /*text-shadow: 2px 2px 4px #666666;*/
+    border-bottom: 1px solid #c2c9d7;
+    width:200px;
+    
+}
 .message {
 float: left;
 margin-bottom: 10px;

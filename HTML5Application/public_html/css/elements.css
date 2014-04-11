@@ -75,9 +75,11 @@ background-image: linear-gradient(to top, #FFFFFF 81%, #E8F5FC 100%);
          filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6f3f5', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
 
 }
-
 .grey_background{
 background-color: rgba(211,248,245,0.1)
+}
+.light_grey_background{
+background-color: rgba(238,238,238,0.1)
 }
 
 .title-divider {
