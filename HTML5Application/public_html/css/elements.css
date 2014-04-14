@@ -90,9 +90,25 @@ margin: 0 0 20px;
 margin-top:20px;
 }
 
+.title-divider-left{
+text-align: left;
+height: 55px;
+line-height:55px;
+font-size:22px;
+overflow: hidden;
+width:100%;
+margin-bottom:8px;
+}
+
 .title-divider h2 {
 line-height: 25px;
 font-size:22px;
+}
+.disenoWeb h3 {
+line-height: 30px;
+font-size:15px;
+color: #FF9814;
+height:30px;
 }
 
 
