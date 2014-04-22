@@ -76,7 +76,7 @@
 
                 <div class="titleGeneral light_to_dark">
                     <div id="titleContent">
-                        <div id="seccionImageAdwords"></div>
+                        <div id="seccionImageContacto"></div>
                         <div id="seccionTitle"><h1>Cont&aacute;ctenos</h1>
                         </div>
                     </div>

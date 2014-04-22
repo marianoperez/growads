@@ -81,7 +81,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="generalContainerAll grey_background">
+                <div class="generalContainerAll white_background">
                     <div class="disenoWeb" >
                         <div class="title-divider-left">
                             <h2><span style="color: #64686a;">Dise&ntilde;o Web</span> > Dise&ntilde;o de p&aacute;ginas web orientado al <a href="posicionamiento-web-seo.php" style="color: #FF9814">SEO</a></h2>
@@ -92,25 +92,73 @@
                             Ofrecemos sitios webs desarrollados con la &uacute;ltima tecnolog&iacute;a, analizamos las necesidades de nuestros clientes, captamos los requerimientos, y plasmamos toda nuestra experiencia en sitios web de calidad.
                         </p>
                     </div>
-                    <div class="disenoWeb" >
+                    <div id="disenoList" class="disenoWeb" >
                         <div class="title-divider-left">
-                            <h2>P&aacute;ginas Web Institucionales</h2>
+                            <h2>Sitios Web Institucionales</h2>
                         </div>
                         <p>
-                          Este tipo de sitios son ideales para mostrar todo el contenido de su empresa, junto con imagenes, videos , sonido, y p&aacute;gina de contacto.
+                          Este tipo de sitios son ideales para mostrar todo el contenido de su empresa, junto con imagenes, videos , sonido, y p&aacute;gina de contacto.<br>
+                          Se orienta el dise&ntilde;o y desarrollo del sitio web en mas de 5 secciones, en donde se despliega toda la informaci&oacute;n de la empresa junto a sus productos y servicios.<br>
+                          GrowAds ofrece el dise&ntilde;o del sitio orientado al <a href="posicionamiento-web-seo.php">SEO</a>, es decir, su sitio saldr&aacute; preparado a la web para posicionarse en google naturalmente.
                         </p>
                         <h3>Algunos sitios realizados</h3>
                         <div id="disenoWebPortfolio">
-                            <div class="webExample">
+                            <div class="webExample" style="margin-left:45px">
                                 <div class="webExampleImage">
                                     <img  alt="diseno web studiodav" src="img/diseno-web-studiodav.png" width="270" height="170">
                                 </div>
                             </div>
                             <div class="webExample">
-                                s
+                                <img  alt="diseno web tunkelen" src="img/diseno-web-tunkelen.png" width="270" height="170">
+                            </div>
+                            <div class="webExample" >
+                               <img  alt="diseno web mz" src="img/diseno-web-mz.png" width="270" height="170">
+                            </div>
+                        </div>
+                    </div>
+                    <div id="disenoList" class="disenoWeb" >
+                        <div class="title-divider-left">
+                            <h2>Landing Pages</h2>
+                        </div>
+                        <p>
+                          Las landing pages son sitios web en donde se destacan los servicios o productos junto con los datos de contacto de la empresa en una misma p&aacute;gina con un formato agradable.<br>
+                          Estos tipos de sitios se orientan al contacto, son ideales para realizar campa&ntilde;as de <a href="posicionamiento-web-adwords.php">posicionamiento en google adwords</a> para realizar conversiones.
+                        </p>
+                        <h3>Algunos sitios realizados</h3>
+                        <div id="disenoWebPortfolio">
+                            <div class="webExample" style="margin-left:45px">
+                                <div class="webExampleImage">
+                                    <img  alt="landing page web juan" src="img/diseno-web-fletesjuan.png" width="270" height="170">
+                                </div>
                             </div>
                             <div class="webExample">
-                                s
+                                <img  alt="landing page doctora" src="img/diseno-web-doctora.png" width="270" height="170">
+                            </div>
+                            <div class="webExample" >
+                               <img  alt="landing page baires" src="img/diseno-web-baires.png" width="270" height="170">
+                            </div>
+                        </div>
+                    </div>
+                    <div id="disenoList" class="disenoWeb" >
+                        <div class="title-divider-left">
+                            <h2>Sitios Web Auto-Administrables</h2>
+                        </div>
+                        <p>
+                          Las landing pages son sitios web en donde se destacan los servicios o productos junto con los datos de contacto de la empresa en una misma p&aacute;gina con un formato agradable.<br>
+                          Estos tipos de sitios se orientan al contacto, son ideales para realizar campa&ntilde;as de <a href="posicionamiento-web-adwords.php">posicionamiento en google adwords</a> para realizar conversiones.
+                        </p>
+                        <h3>Algunos sitios realizados</h3>
+                        <div id="disenoWebPortfolio">
+                            <div class="webExample" style="margin-left:45px">
+                                <div class="webExampleImage">
+                                    <img  alt="landing page web juan" src="img/diseno-web-madero.png" width="270" height="170">
+                                </div>
+                            </div>
+                            <div class="webExample">
+                                <img  alt="landing page doctora" src="img/diseno-web-tecno.png" width="270" height="170">
+                            </div>
+                            <div class="webExample" >
+                               <img  alt="landing page baires" src="img/diseno-web-valemenos.png" width="270" height="170">
                             </div>
                         </div>
                     </div>

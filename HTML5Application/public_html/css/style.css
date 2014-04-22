@@ -523,9 +523,9 @@ hr {
 }
 
 .moreInfo {
-	-moz-box-shadow:inset 1px -3px 12px -5px #1f1d1f;
-	-webkit-box-shadow:inset 1px -3px 12px -5px #1f1d1f;
-	box-shadow:inset 1px -3px 12px -5px #1f1d1f;
+	-moz-box-shadow:inset 1px -3px 1px -5px #1f1d1f;
+	-webkit-box-shadow:inset 1px -3px 1px -5px #1f1d1f;
+	box-shadow:inset 1px -3px 1px -5px #1f1d1f;
 	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f57f25), color-stop(1, #bd6302) );
 	background:-moz-linear-gradient( center top, #f57f25 5%, #bd6302 100% );
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f57f25', endColorstr='#bd6302');
@@ -606,6 +606,19 @@ hr {
     text-shadow: 2px 2px 5px #e6e9e9;
 
 }
+
+#disenoList{
+    margin-top:20px;
+}
+#seccionImageNosotros{
+    float:left;
+    width:180px;
+    height:100%;
+    margin-left:10px;
+    background-image:url('../img/growads-nosotros.png');
+    background-repeat: no-repeat;
+    background-position-y: 10px;
+}
 #seccionImageDiseno{
     float:left;
     width:180px;
@@ -631,6 +644,15 @@ hr {
     height:100%;
     margin-left:10px;
     background-image:url('../img/google-adwords.png');
+    background-repeat: no-repeat;
+    background-position-y: 10px;
+}
+#seccionImageContacto{
+    float:left;
+    width:180px;
+    height:100%;
+    margin-left:10px;
+    background-image:url('../img/contactenos-growads-posicionamiento.png');
     background-repeat: no-repeat;
     background-position-y: 10px;
 }

@@ -6,7 +6,7 @@
 
 
             <ul id="nav">
-                <li><a href="">Nosotros</a>
+                <li><a href="growads-nosotros.php">Nosotros</a>
                 <li><a href="diseno-web.php">Dise&ntilde;o Web</a>
 
                 <li><a href="">Posicionamiento Web</a>
