@@ -144,8 +144,9 @@
                             <h2>Sitios Web Auto-Administrables</h2>
                         </div>
                         <p>
-                          Las landing pages son sitios web en donde se destacan los servicios o productos junto con los datos de contacto de la empresa en una misma p&aacute;gina con un formato agradable.<br>
-                          Estos tipos de sitios se orientan al contacto, son ideales para realizar campa&ntilde;as de <a href="posicionamiento-web-adwords.php">posicionamiento en google adwords</a> para realizar conversiones.
+                          Los sitios web auto-administrables son aquellos sitios, en donde a trav&eacute;s de una interfaz muy sencilla, el cliente puede cambiar el contenido del sitio.<br>
+                          Estos tipos de sitios son muy utilizados para el e-commerce, muestras de catalogos, contenido dinamico en general. <br>
+                          Cabe destacar que estos sitios son muy bien posicionados por buscadores como Google Naturalmente gracias al <a href="posicionamiento-web-seo.php">posicionamiento organico</a>.
                         </p>
                         <h3>Algunos sitios realizados</h3>
                         <div id="disenoWebPortfolio">
