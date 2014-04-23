@@ -82,7 +82,15 @@
                     </div>
                 </div>
                 <div class="generalContainerAll light_grey_background">
-                    
+                    <div class="nosotros">
+                    <div class="title-divider-left">
+                        <h2>Nuestra Historia</h2>
+                    </div>
+                    <p>
+                        GrowAds fue fundada en el a&ntilde;o 2010 gracias a un grupo joven de profesionales en Inform&aacute;tica, Marketing y Redes Sociales. <br>
+                        &iquest;El Objetivo? Insertarse en el mercado con el fin de ayudar peque&ntilde;as y medianas empresas
+                    </p>
+                    </div>
                 </div>
 
 

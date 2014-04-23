@@ -656,6 +656,23 @@ hr {
     background-repeat: no-repeat;
     background-position-y: 10px;
 }
+.nosotros{
+    margin:auto;
+    width:990px;
+    font-family: Segoe UI;
+    height: auto;
+    
+}
+
+.nosotros p{
+    text-align: left;
+    width: 100%;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin:auto;
+    clear:both;
+}
+
 
 .disenoWeb{
     margin:auto;
