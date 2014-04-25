@@ -9,10 +9,10 @@
 <div id="mainFooter">
     <div id="footerLeft">
         <h3>Servicios</h3>
-        <div class="itemsForFooter"><a href="">Posicionamiento Web Google Adwords</a></div>
-        <div class="itemsForFooter"><a href="">Posicionamiento SEO Natural</a></div>
-        <div class="itemsForFooter"><a href="">Dise&ntilde;o Web</a></div>
-        <div class="itemsForFooter"><a href="">Redes Sociales</a></div>
+        <div class="itemsForFooter"><a href="posicionamiento-web-adwords.php">Posicionamiento Web Google Adwords</a></div>
+        <div class="itemsForFooter"><a href="posicionamiento-web-seo.php">Posicionamiento SEO Natural</a></div>
+        <div class="itemsForFooter"><a href="diseno-web.php">Dise&ntilde;o Web</a></div>
+        <div class="itemsForFooter"><a href="growads-nosotros.php">Nosotros</a></div>
     </div>
     <div id="footerMid">
         <h3>En donde Estamos?</h3>

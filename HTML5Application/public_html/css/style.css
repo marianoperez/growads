@@ -68,7 +68,7 @@ body{
     font-size:14px;
     font-family: Segoe UI;
     color: #64686a;
-    margin-left:150px;
+    margin-left:290px;
 }
 
 
@@ -274,6 +274,12 @@ em{font-style:italic;}
     font-size:15px;
     margin:auto;
     width:990px;
+}
+
+#growadsWhoWeAre h1{
+    font-size:22px;
+    font-weight: lighter;
+    color:#009edc;
 }
 #servicesShow{
     margin:auto;
@@ -526,8 +532,6 @@ hr {
 	-moz-box-shadow:inset 1px -3px 1px -5px #1f1d1f;
 	-webkit-box-shadow:inset 1px -3px 1px -5px #1f1d1f;
 	box-shadow:inset 1px -3px 1px -5px #1f1d1f;
-	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f57f25), color-stop(1, #bd6302) );
-	background:-moz-linear-gradient( center top, #f57f25 5%, #bd6302 100% );
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f57f25', endColorstr='#bd6302');
 	background-color:#f57f25;
 	-webkit-border-top-left-radius:6px;

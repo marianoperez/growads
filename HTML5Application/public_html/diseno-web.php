@@ -1,6 +1,7 @@
+<!DOCTYPE html>
 <html>
     <head>
-
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />    
         <title>Dise&ntilde;o Web, Desarrollo de p&aacute;ginas web para SEO</title>
         <meta name="description" content="GrowAds es una empresa de posicionamiento web. Con mas de 10 años de Experiencia, contactenos para mejorar sus resultados.">
         <meta name="keywords" content="posicionamiento web en google, posicionamiento web, aparecer primero en google, diseño web, diseño de sitios web, colocar anuncio en google">
@@ -11,7 +12,8 @@
         <meta name="rating" content="general">
         <meta name="generator" content="FreeMetaTagGenerator.com">
         <meta name="author" content="GrowAds">
-
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
         <link href="css/style.css" rel="stylesheet" type="text/css"/>
         <link href="css/form-style.css" rel="stylesheet" type="text/css"/>
         <link href="css/elements.css" rel="stylesheet" type="text/css"/>

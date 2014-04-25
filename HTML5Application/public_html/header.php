@@ -15,7 +15,6 @@
                         <li><a href="posicionamiento-web-adwords.php">Posicionamiento Web Adwords</a></li>                        
                     </ul>
                 </li>
-                <li><a href="">Redes Sociales</a>
                 <li><a href="contacto-growads.php">Contactenos</a>
             </ul>
 </div>

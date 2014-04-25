@@ -1,7 +1,9 @@
+<!DOCTYPE html>
 <html>
     <head>
-
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <title>Posicionamiento Web SEO, Posicionamiento Web Natural - GrowAds</title>
+        
         <meta name="description" content="GrowAds es una empresa de posicionamiento web. Con mas de 10 años de Experiencia, contactenos para mejorar sus resultados.">
         <meta name="keywords" content="posicionamiento web en google, posicionamiento web, aparecer primero en google, diseño web, diseño de sitios web, colocar anuncio en google">
         <meta name="robots" content="index, follow">
@@ -11,7 +13,8 @@
         <meta name="rating" content="general">
         <meta name="generator" content="FreeMetaTagGenerator.com">
         <meta name="author" content="GrowAds">
-
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
         <link href="css/style.css" rel="stylesheet" type="text/css"/>
         <link href="css/form-style.css" rel="stylesheet" type="text/css"/>
         <link href="css/elements.css" rel="stylesheet" type="text/css"/>
@@ -173,6 +176,21 @@
                                     <tr>
                                         <td >
                                             Localizaci&oacute;n de su negocio en Google Maps 
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td >
+                                            Posición asegurada en primera página
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td >
+                                            Localizaci&oacute;n de su negocio en Google Maps 
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td >
+                                            Mayor cantidad de enlaces a su página
                                         </td>
                                     </tr>
                                 </table>

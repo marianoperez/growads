@@ -1,7 +1,8 @@
+<!DOCTYPE html>
 <html>
     <head>
-
-        <title>Posicionamiento Web Profesional, Posicionamiento Web en Google - GrowAds</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Posicionamiento Web Profesional en Google - Diseño Web - GrowAds</title>
         <meta name="description" content="GrowAds es una empresa de posicionamiento web. Con mas de 10 años de Experiencia, contactenos para mejorar sus resultados.">
         <meta name="keywords" content="posicionamiento web en google, posicionamiento web, aparecer primero en google, diseño web, diseño de sitios web, colocar anuncio en google">
         <meta name="robots" content="index, follow">
@@ -9,6 +10,7 @@
         <meta name="dcterms.dateCopyrighted" content="2014">
         <meta name="rating" content="general">
         <meta name="author" content="GrowAds">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <link href="css/style.css" rel="stylesheet" type="text/css"/>
         <link href="css/form-style.css" rel="stylesheet" type="text/css"/>
@@ -106,7 +108,8 @@
                     </div>
                 </div>
                 <div id="growadsWhoWeAre">
-                    <span style="color: #009edc">GrowAds </span>es una empresa Argentina de desarrollo y posicionamiento web. Nuestra misi&oacute;n es posicionar su sitio en los primeros lugares de Google, con el fin de atraer a visitantes interesados a su sitio web. Los invitamos a conocernos, y a empezar a mejorar su posicionamiento en internet.
+                    <h1>Posicionamiento Web Profesional</h1>
+                    <span style="color: #FF9814">GrowAds </span>es una empresa Argentina de desarrollo y posicionamiento web. Nuestra misi&oacute;n es posicionar su sitio en los primeros lugares de Google, con el fin de atraer a visitantes interesados a su sitio web. Los invitamos a conocernos, y a empezar a mejorar su posicionamiento en internet.
                 </div>
                 <hr>
                 <div id="servicesShow">
@@ -136,6 +139,7 @@
                             <a href="posicionamiento-web-seo.php">Mas Info</a>
                         </div>
                     </div>
+               
                     <div class="service-info" style="width: 240px">
                         <div class="imagen-portada" style="">
                             <img src="img/diseno-web-portada.png" width="80" height="80" alt="Dise&ntilde;o Web" class="imagen-portada-img"/>
@@ -149,8 +153,10 @@
                             Mas Info
                         </div>
                     </div>
-                    <hr>
+               
                 </div>
+                
+                    <hr >
                 <div id="howItWorks">
                     <div id="worksLeft">
                         <h2>&iquest;C&oacute;mo Funciona el Posicionamiento Web?</h2>
